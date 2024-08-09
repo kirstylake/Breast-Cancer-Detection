@@ -1,2 +1,4 @@
 # Breast-Cancer-Detection
-Python Machine Learning Breast Cancer Detection Project
+A machine learning project aimed at diagnosing skin cancer through the analysis of skin lesion images represents an exciting and impactful application of artificial intelligence (AI) in healthcare. Skin cancer, being one of the most common types of cancer globally, necessitates early detection and treatment to improve patient outcomes. This project seeks to leverage the advancements in machine learning and image processing to create a model capable of accurately identifying and classifying various types of skin cancer, including melanoma, which is the deadliest form.
+
+This report will utilize the Universal Workflow of Machine Learning[1][1] to build a final model that produces the best results of the chosen dataset using exclusively Dense and Dropout layers as outlined by the instructions for this final
